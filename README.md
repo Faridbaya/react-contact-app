@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📇 React Contact App
+  📇 React Contact App
 
 <img src="https://img.shields.io/badge/React-19-blue?logo=react" />
 <img src="https://img.shields.io/badge/Vite-Bundler-purple?logo=vite" />
@@ -10,41 +10,33 @@
 
 <br/>
 
-📌 A modern contact management application built with React
+📌 A simple Contact Management App built with React
 
 </div>
 
 ---
 
-## 🚀 Live Demo
-👉 https://your-live-demo-link.com
+✨ Overview
 
----
-
-## ✨ Overview
-
-A **simple yet powerful Contact Management App** built with React.
-
-It allows users to:
-- ➕ Add contacts
+Users can:
+- ➕ Add new contacts (name, last name, email, phone)
 - 👀 View contact list
 - 🗑️ Delete contacts
-- ⚠️ Validate form inputs in real-time
+- ⚠️ See validation alerts for empty inputs
 
 ---
 
-## 🧠 Key Features
+ 🧠 Key Features
 
-- ⚡ Real-time state management with React hooks
-- 🧩 Modular component-based architecture
-- 📱 Fully responsive UI
-- ⚠️ Form validation with alerts
-- 🗂️ Clean and scalable project structure
-- 🔥 Fast UI with Vite
+- ⚡ State management using `useState`
+- 🧩 Fully component-based architecture
+- ⚠️ Input validation before adding contacts
+- 🆔 Unique ID generation using UUID
+- 🧼 Clean separation of UI and logic
 
 ---
 
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
 <div align="center">
 
@@ -52,6 +44,4 @@ It allows users to:
 
 </div>
 
----
 
-## 📁 Project Architecture
