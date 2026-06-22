@@ -6,7 +6,6 @@
 <img src="https://img.shields.io/badge/Vite-Bundler-purple?logo=vite" />
 <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript" />
 <img src="https://img.shields.io/badge/CSS-Modules-blue" />
-<img src="https://img.shields.io/badge/Status-Completed-success" />
 
 <br/>
 
